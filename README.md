@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shixiangw
-  
 <a title="Hits" target="_blank" href="https://github.com/ror-z/shixiangw"><img src="https://hits.b3log.org/shixiangw/shixiangw.svg"></a>
+
+👋 Hi, I’m @shixiangw
 
 
 <!---
