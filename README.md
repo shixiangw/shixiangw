@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @shixiangw
 - 👀 I’m interested in CloudCompute\Iot\CloudNative
 - 🌱 I’m currently work on Iiot & IoV project
-- 💞️ I’m looking to collaborate on CloudNative project
+- 💞️ I’m looking to collaborate on Iiot & IoV & CloudNative project
 - 📫 You can touch me by `shixiangw@foxmail.com`
 
 
